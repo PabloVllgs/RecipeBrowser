@@ -1,0 +1,41 @@
+{
+	// Comments
+	"RecipeBrowserUI":{
+		"Recipes": "Recetas",
+		"Items": "Items",
+		"Bestiary": "Bestiario",
+		"Close": "Cerrar",
+		"All": "Todo",
+		"Mod Filter": "Filtro por Mod",
+	},
+	"Common":{
+		"Filter by Name": "Filtro por nombre",
+		"Filter by tooltip": "Filtro por descripción",
+		"Install Item Checklist to use": "Instalar Item Checklist",
+	},
+	"RecipeCatalogueUI": {
+		"Tile": "Bloque",
+		"All Recipes": "Todas las recetas",
+		"Nearby Chests": "Cofres cercanos",
+		"Click to Refresh": "Clic para recargar",
+		"Item Checklist Only": "Solo Item Checlkist",
+		"Only new Items made from Seen Items": "Solo items hechos de los items ya vistos",
+	},
+	"ItemCatalogueUI": {
+		"Crafted": "Crafteado",
+		"Only show crafted items": "Solo items ya crafteados",
+		"Loot": "Botín",
+		"Show only loot items": "Solo items de botín",
+		"Unobtained": "Sin obtener",
+		"Only unobtained items": "Solo items sin obtener",
+		"BottomInstructions": "2x BIM: Ver Recetas  ---  2x BDM: Ver Items dropeados por NPCs",
+	},
+	"BestiaryUI": {
+		"Encountered": "Encontrados",
+		"Show only NPC killed already": "Mostrar solo NPCs que ya ha sido matados",
+		"Has Loot": "Con botín",
+		"Show only NPC with Loot": "Mostrar solo NPCs con botín",
+		"New Loot": "Nuevo botín",
+		"Show only NPC with never before seen Loot": "Mostrar solo NPCs que nunca se ha visto su botín",
+	},
+}
